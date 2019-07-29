@@ -1,2 +1,2 @@
-配置的时候添加一个文件夹里面带config.json即可
-目前版本是windows版本，如果想换成linux版本将后缀.exe改成.out即可运行
+閰嶇疆鐨勬椂鍊欐坊鍔犱竴涓枃浠跺す閲岄潰甯onfig.json鍗冲彲</br>
+鐩墠鐗堟湰鏄痺indows鐗堟湰锛屽鏋滄兂鎹㈡垚linux鐗堟湰灏嗗悗缂�.exe鏀规垚.out鍗冲彲杩愯
