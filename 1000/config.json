@@ -1,0 +1,29 @@
+{
+  'title':'VOJ的第一个测试程序',
+  'IO':'standard IO',
+  'datacount':'3',
+  'ioname':'add',
+  'configuration':{
+    '0':{
+      "in":"add1.in",
+      "out":"add1.out",
+      "timelimit":"1000",
+      "memory":"256",
+      'score':'10'
+    },
+     '1':{
+      "in":"add2.in",
+      "out":"add2.out",
+      "timelimit":"1000",
+      "memory":"256",
+      'score':'10'
+    },
+     '2':{
+      "in":"add2.in",
+      "out":"add2.out",
+      "timelimit":"1000",
+      "memory":"256",
+      'score':'10'
+    }
+  }
+}
